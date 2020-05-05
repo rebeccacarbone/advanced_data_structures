@@ -1,0 +1,6 @@
+ Tom, Mother,Tom_Mother@DFfgO.com,533104301,orange,6.83
+ Fred, Wayne,Fred_Wayne@Y6.com,141920502,lightgreen,2.53
+ Marge, Dickinson,Marge_Dickinson@IV7.com,566705353,darkred,8.77
+ Maggie, Johnson,Maggie_Johnson@rOU.org,672077656,grey,7.92
+ John, Thatcher,John_Thatcher@kIBGz.cc.ca.us,737484899,lightgreen,0.5
+ John, May,John_May@my.com,24234814,lightgreen,0.01
